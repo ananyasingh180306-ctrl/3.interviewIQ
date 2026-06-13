@@ -4,12 +4,16 @@
 
 # Project Title
 
+
 # 🚀 InterviewIQ.AI
 
 An AI-powered interview preparation SaaS platform built with the **MERN Stack** that enables users to upload resumes, generate personalized interview questions, practice technical and HR rounds, receive AI-driven feedback, and purchase credits through Razorpay for premium features.
 ## 📖 About the Project
 
 **InterviewIQ.AI** helps job seekers prepare for interviews by leveraging AI to analyze resumes and generate customized interview experiences. The platform combines secure authentication, intelligent feedback, payment integration, and a modern responsive UI to deliver a complete interview preparation ecosystem.
+
+#Project link
+https://interviewiq-rh0q.onrender.com/
 
 ---
 
